@@ -1,1 +1,1 @@
-# cbr-currency-loader
+# cbr-currency-loader v.1
